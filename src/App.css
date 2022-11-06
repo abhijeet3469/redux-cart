@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -11,9 +11,9 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -26,13 +26,49 @@
 
 .App-link {
   color: #61dafb;
+} */
+
+/*  */
+/* .btn-wrapper button{
+  background-color: dodgerblue;
+  border: 0px;
+  border-radius: 12px;
+  padding: 10px;
+  color: whitesmoke;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
+.btn-wrapper button:hover{
+  box-shadow: 3px 3px 4px skyblue;
+}
+
+.img-wrapper img{
+  width: 100px;
+  margin-top: -10px;
+}
+
+.cart-wrapper{
+  border: 2px solid skyblue;
+  width: 500px;
+  height: 100px;
+  margin-left: 10%;
+}
+
+.item{
+  width: 120px;
+  height: 70px;
+  padding: 20px;
+  display: inline-block;
+} */
+/*  */
+
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+
